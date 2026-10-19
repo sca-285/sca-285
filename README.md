@@ -18,7 +18,7 @@ I'm not a professional developer. I often work with AI coding assistants to turn
 | [**Forge Notebook**](https://github.com/sca-285/sd-forge-notebook) | A lightweight notebook for jotting things down inside a Forge-family interface. |
 | [**Lobe Theme Redux**](https://github.com/sca-285/sd-webui-lobe-theme-redux) | An attempt to customize the look and feel of the WebUI workspace. |
 
-## What I'm interested in
+## I'm exploring
 
 - AI image generation and the Stable Diffusion / Forge ecosystem
 - Prompt organization, tagging, and local AI tools
@@ -26,7 +26,7 @@ I'm not a professional developer. I often work with AI coding assistants to turn
 - Learning by building small tools with help from AI coding assistants
 - Exploring and sharing AI-generated artwork on [Civitai](https://civitai.red/user/sca285)
 
-## A small note
+## Note
 
 These projects are shared as-is, and may have bugs or limitations. Some are based on or adapted from existing projects, so please check each repository for its own credits, dependencies, and license information.
 
