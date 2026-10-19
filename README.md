@@ -2,6 +2,8 @@
 
 I'm an enthusiast of AI image generation who likes tinkering with **Stable Diffusion WebUI Forge**, **reForge**, and related projects. I make small extensions and utilities to improve my own workflow, then share them in case they might be useful to someone else.
 
+Outside GitHub, I'm also a [creator on Civitai](https://civitai.red/user/sca285), where I share AI-generated images and experiment with models and LoRAs. It's another place for me to explore visual ideas, learn by trying things out, and exchange inspiration with the community.
+
 I'm **not a professional developer**. I often work with AI coding assistants to turn ideas into working extensions, figure out bugs, and learn as I go. The projects here are personal experiments: some parts may be rough around the edges, and things won't always work perfectly. I'm still learning, so kind feedback and bug reports are appreciated.
 
 ## Things I've been tinkering with
@@ -22,6 +24,7 @@ I'm **not a professional developer**. I often work with AI coding assistants to 
 - Prompt organization, tagging, and local AI tools
 - Image finishing, color, and photographic effects
 - Learning by building small tools with help from AI coding assistants
+- Exploring and sharing AI-generated artwork on [Civitai](https://civitai.red/user/sca285)
 
 ## A small note
 
